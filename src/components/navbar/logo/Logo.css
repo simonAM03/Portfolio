@@ -1,0 +1,19 @@
+.logo{
+  height: 57px;
+  width: 130px;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  text-decoration: none; /* Bỏ dấu gạch chân */
+  color: white;
+}
+
+.may{
+  height: 20px; 
+  width: 25px;
+  margin-right:3px ;
+}
+
+.order{
+  font-size: 35px;
+}
